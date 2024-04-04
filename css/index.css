@@ -1,0 +1,130 @@
+body {
+  background-image: url(https://kartinki.pics/uploads/posts/2021-07/1626160779_58-kartinkin-com-p-fon-dlya-chata-telegramm-krasivo-58.jpg);
+  width: 1050px;
+}
+
+.button {
+    display: inline-block;
+    background: #0a0c0e;
+    color: #fff;
+    padding: 0.5rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    transition: background-color 0.5s, box-shadow 0.2s 0.3s;
+}
+
+.button:hover {
+    background-color: rgb(23, 23, 171);
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgb(23, 23, 171);
+}
+
+.button1 {
+    display: inline-block;
+    background: #0a0c0e;
+    color:#fff;
+    padding: 05.rem 1.5rem;
+    text-decoration: underline;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.5s, box-shadow 0.2s 0.3s;
+}
+
+.button1:hover {
+    background-color: rgb(23, 23, 171);
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgb(23, 23, 171);
+}
+
+.photo {
+  width: 300px;
+  height: 400px;
+}
+
+.photo1 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo2 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo3 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo4 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo5 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo6 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo7 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo8 {
+  width: 300px;
+  height: 400px;
+}
+
+.photo9 {
+  width: 300px;
+  height: 400px;
+}
+
+.fullname {
+  flex-wrap: wrap;
+  vertical-align: text-top;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 40px;
+  font-display: center;
+  text-decoration: underline;
+}
+
+.personalinfo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(119, 10, 32);
+}
+
+h3 {
+  font-style: italic;
+  text-decoration: underline;
+  text-align: center;
+  background: #0a0c0e;
+  color:#fff;
+  padding: 05.rem 1.5rem;
+  border-radius: 5px;
+}
+
+.info {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    padding: 20px;
+}
+
+.me {
+    text-align: center;
+    margin-left: 40px;
+    border: 5px solid black;
+}
